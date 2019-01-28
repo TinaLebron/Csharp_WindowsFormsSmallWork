@@ -19,4 +19,4 @@
  
 ## Main
 部分選號<br/><br/>
-<img src="https://github.com/TinaLebron/JavaLottery/blob/master/picture/prompt.PNG" width="650" /><br/>
+<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/login.PNG" width="250" /><br/>
