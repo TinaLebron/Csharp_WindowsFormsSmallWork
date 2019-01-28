@@ -19,4 +19,11 @@
  
 ## Main
 登入<br/>
-<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/login.PNG" width="250" /><br/>
+<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/login.PNG" width="300" />&nbsp;
+<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/loginError.PNG" width="300" /><br/>&nbsp;
+<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/loginAfter.PNG" width="300" /><br/>&nbsp;
+
+血壓計<br/>
+<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/bloodPressureHome.PNG" width="300" /><br/>&nbsp;
+
+
