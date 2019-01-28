@@ -32,7 +32,7 @@
 
 小型樂透<br/>
 • BinGoBinGo
-<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/BinGoBinGo.PNG" width="400" />&nbsp;<br/>
+<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/BinGoBinGo.PNG" width="400" />&nbsp;
 <img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/BinGoBinGoWin.PNG" width="400" /><br/>
 
 • SupperLotto
