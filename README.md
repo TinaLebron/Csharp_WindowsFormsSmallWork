@@ -18,5 +18,5 @@
 • 登入可以跟SQL的帳號密碼做比對
  
 ## Main
-部分選號<br/><br/>
+登入<br/>
 <img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/login.PNG" width="250" /><br/>
