@@ -24,8 +24,8 @@
 <img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/loginAfter.PNG" width="300" /><br/>&nbsp;
 
 血壓計<br/>
-<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/bloodPressureHome.PNG" width="400" />&nbsp;
-<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/bloodPressureResult.PNG" width="400" />&nbsp;
+<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/bloodPressureHome.PNG" width="350" />&nbsp;
+<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/bloodPressureResult.PNG" width="500" />&nbsp;
 
 單位換算<br/>
 <img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/snipping%20Tool.PNG" width="400" /><br/>&nbsp;
@@ -36,7 +36,7 @@
 <img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/BinGoBinGoWin.PNG" width="400" /><br/>
 
 • SupperLotto<br/>
-<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/SupperLotto.PNG" width="400" />&nbsp;<br/>
+<img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/SupperLotto.PNG" width="400" />&nbsp;
 <img src="https://github.com/TinaLebron/Csharp_WindowsFormsSmallWork/blob/master/picture/SupperLottoWin.PNG" width="400" /><br/>
 
 冷飲系統<br/>
